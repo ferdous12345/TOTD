@@ -1,0 +1,1 @@
+Move to beginning or end of line: front of line: crtl-A, last word of line: crtl-E 

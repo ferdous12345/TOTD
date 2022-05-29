@@ -1,0 +1,3 @@
+Just use the keys ctrl+r to initiate reverse search and type some part of the command. It will look up into the history and will show you the commands that matches the search term.
+
+ctrl+r search_term

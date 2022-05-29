@@ -1,0 +1,1 @@
+Unfreeze your Linux terminal from accidental Ctrl+S

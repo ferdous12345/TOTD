@@ -1,0 +1,1 @@
+ Delete entire line from cursor position ctrl+U

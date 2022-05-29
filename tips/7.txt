@@ -1,0 +1,1 @@
+build directory tree with one command:  mkdir -p new_folder/{folder_1,folder_2,folder_3,folder_4,folder_5}

@@ -1,0 +1,1 @@
+turn off your system at a specific time: $ sudo shutdow <time in 24hr format>

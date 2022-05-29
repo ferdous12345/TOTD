@@ -1,0 +1,1 @@
+Though it was Linus Torvalds who wrote the Linux Kernel initially, he hardly codes anything today. However, he is actively responsible for managing and merging codes written by other developers.
